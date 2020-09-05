@@ -38,6 +38,7 @@
       - libXNVCtrl-devel
       # packages in repo for fedora, and in epel for centos7/rhel7
       - lame-devel
+      - libXxf86vm-devel
 
 - name: add optional build libraries
   set_fact:
